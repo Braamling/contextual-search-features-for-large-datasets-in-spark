@@ -5,9 +5,3 @@ The python implementation has two components: i) a notebook that converts a pand
 
 More information about how to use the Scala Spark implementation, please check the readme in the Spark directory.
 
-#### Usage
-This directory consists of various python files that are able to add queries, documents and contextual features to a .h5 file. This file can then be used for training a learning to rank model. 
-
-- `add_pyndri_index.py`
-- `add_pagerank.py`
-- `add_anchor_baselines.py`
